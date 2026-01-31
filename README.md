@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-I'm Muhammad Tamer, a **junior .NET developer** with experience in **full-stack desktop development**, currently expanding my skills into **full-stack web development**. I also have hands-on experience with **C/C++ and Python**.
+I'm **Muhammad Tamer**, a **junior .NET developer** with experience in **full-stack desktop development**, currently expanding my skills into **full-stack web development**. I also have hands-on experience with **C/C++ and Python**.
 
 ## 🚀 About Me
 - 🧱 I build **full-stack desktop applications**
